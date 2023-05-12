@@ -1,7 +1,7 @@
 # bot-double-bleze
 BOT DOUBLE DA BLAZE
 
-Bot do jogo Penalty-Shootout, envia os sinais diretamente no Telegram
+Bot do jogo DOUBLE DA BLAZE, envia os sinais diretamente no Telegram
 interessados favor chamar no WhatSapp 74 99944-5516 ou no telegram @sonycltda
 OBS: Código é em python...
 # 𓊈𒆜 IMAGENS: 𒆜𓊉
